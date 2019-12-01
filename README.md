@@ -33,7 +33,7 @@ you can use requirements.txt to install all requirements
 How it work
 ---
 
-####1 -  calibrate camera
+#### 1 -  calibrate camera
 
 we save our calibration images <b>(chess board images)</b> and path it to camera_calibration module
 
@@ -41,7 +41,7 @@ Example
 
 `python camera_calibration.py -p camera_cal -o cam_calibration -nx 9 -ny 6`
 
-####where..
+#### where..
 
 `-p: path to calibration images folder`
 
@@ -51,7 +51,7 @@ Example
 
 `-ny: number of internal corner in column`
 
-####2 - Apply Lane detection on video or cam 
+#### 2 - Apply Lane detection on video or cam 
 we use main module which take different options
 
 `-p: path to pickle file contain perspective transform matrix M and Minv, you can use init if you want generate new one, then pass path to save it in -np`
