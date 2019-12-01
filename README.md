@@ -35,7 +35,7 @@ How it work
 
 #### 1 -  calibrate camera
 
-we save our calibration images <b>(chess board images)</b> and path it to camera_calibration module
+we save our calibration images <b>(chess board images)</b> and pass its path to camera_calibration module
 
 Example
 
@@ -72,6 +72,6 @@ Example
 
 what is next
 ---
-This work fine for good conditions roads, so next step to make it work fine in harder situations like.
+This work fine for good conditions roads, so next step to make it work fine in harder situations like dark frames, noise linee ..etc.
 
-Any suggestions to make it better will be appreciated ^^
+Any suggestions to make it better are welcomed ^^
