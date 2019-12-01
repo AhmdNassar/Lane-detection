@@ -72,6 +72,6 @@ Example
 
 what is next
 ---
-This work fine for good conditions roads, so next step to make it work fine in harder situations like dark frames, noise linee ..etc.
+This work fine for good conditions roads, so next step to make it work fine in harder situations like dark frames, noise line.
 
 Any suggestions to make it better are welcomed ^^
